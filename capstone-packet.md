@@ -4,8 +4,8 @@ You have about 20 minutes of working time and three requirements: use at least
 three prompts, refine at least one response based on what you got back, and
 validate the output before calling it done.
 
-If you already have a task in mind, use it. This packet is for everyone else.
-Nothing here is a test — the point is to have something concrete in front of
+If you already have a task in mind, use it. This document is for everyone else.
+Nothing here is a test–the point is to have something concrete in front of
 you so the 20 minutes go into practicing the process rather than into deciding
 what to work on.
 
@@ -14,7 +14,7 @@ what to work on.
 ## First: can you generate your own in 60 seconds?
 
 A capstone task from your own work is worth more than anything in this packet,
-because you'll actually finish it on Monday. Try one of these prompts on
+because it's something you'll use in your daily work. Try one of these prompts on
 yourself before reaching for a canned scenario:
 
 - What did you do last week that you'll have to do again this week?
