@@ -1,4 +1,4 @@
-## A worked example
+## Scenario 1 Solution
 
 This is Scenario 1, done properly. Read it if you're stuck, or afterwards to
 compare against what you did. The point isn't the specific wording — it's the
